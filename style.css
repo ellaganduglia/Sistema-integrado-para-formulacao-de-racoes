@@ -1,0 +1,116 @@
+
+
+*{
+   
+    font-family: 'Staatliches', cursive;
+}
+
+body html{
+    height: 100%;
+}
+
+#navbar{
+   margin-top: 25px;
+   display: flex;
+   justify-content: space-between;
+   width: 100%;
+    
+     
+}
+ 
+#imglogo{
+    height: 50px;
+    
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+#butlogin{
+    background-color: black;
+    border: 0;
+    padding: 18px 40px 18px 40px;
+    border-radius: 30px;
+    color: #FFF;
+    font-weight: 800;
+    margin-right: 50px;
+    cursor: pointer;
+    align-self: flex-start;
+    
+    
+}
+
+#conteudo{
+    height: 95%;
+    width: 100% ;
+    display: flex;
+    justify-content: center ;
+    
+}
+
+
+#parte1{
+    margin-top: -70px;
+    margin-left: 50px;
+    display: flex;
+    flex-direction:column;
+    justify-content: space-around;
+    margin-left:5%;
+}
+
+
+
+#titulo{
+    font-size: 40px;
+    
+    
+}
+
+
+
+#divtexto{
+    max-width: 450px;
+    
+}
+
+#texto{
+    font-size: 20px;
+    margin-top: 15px;
+    
+}
+
+#butComecar{
+    width: 300px;
+    background-color: black;
+    border: 0;
+    padding: 18px 40px 18px 40px;
+    border-radius: 0px 50px 50px 50px;
+    color: #fff;
+    font-size: medium;
+    margin-top: 25px;
+    cursor: pointer;
+    margin-left: 10%;
+    
+}
+
+
+#parte2{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+#imgfundo{
+    max-width: 560px;
+    margin-top:50px ;
+}
